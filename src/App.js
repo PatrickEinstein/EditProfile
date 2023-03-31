@@ -23,7 +23,7 @@ sx={{
 >
 
     <Dashboard/>
-    <Relationship/>
+    /*<Relationship/>*/
     </Stack>
   );
 }
